@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/neumovies/static/css/main.eccd23da.chunk.css",
+    "main.js": "/neumovies/static/js/main.984abc43.chunk.js",
+    "main.js.map": "/neumovies/static/js/main.984abc43.chunk.js.map",
+    "runtime-main.js": "/neumovies/static/js/runtime-main.c1569d13.js",
+    "runtime-main.js.map": "/neumovies/static/js/runtime-main.c1569d13.js.map",
+    "static/js/2.aaa473de.chunk.js": "/neumovies/static/js/2.aaa473de.chunk.js",
+    "static/js/2.aaa473de.chunk.js.map": "/neumovies/static/js/2.aaa473de.chunk.js.map",
+    "index.html": "/neumovies/index.html",
+    "static/css/main.eccd23da.chunk.css.map": "/neumovies/static/css/main.eccd23da.chunk.css.map",
+    "static/js/2.aaa473de.chunk.js.LICENSE.txt": "/neumovies/static/js/2.aaa473de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1569d13.js",
+    "static/js/2.aaa473de.chunk.js",
+    "static/css/main.eccd23da.chunk.css",
+    "static/js/main.984abc43.chunk.js"
+  ]
+}
