@@ -8,7 +8,7 @@ const Movies = ({el}) => {
     const nonImagen = "http://static.tvmaze.com/images/no-img/no-img-portrait-text.png"
 
     return (
-        <Link to={"/details/" + el.id}>
+        <Link to={"neumovies/details/" + el.id}>
             <div className="card-subDiv">
                 <img className="card-img" src={el.poster_path === null ? nonImagen : imagen} alt={el.title}/>
                 <div className="card-info">

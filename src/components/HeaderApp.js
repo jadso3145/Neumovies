@@ -9,10 +9,10 @@ const HeaderApp = () => {
             <img src={logo} alt="logo"  className="logo"/>
             <nav className="navLinks">
                 <div>
-                    <Link to="/" className="links">
+                    <Link to="neumovies/" className="links">
                         Inicio
                     </Link>
-                    <Link to="/search" className="links">
+                    <Link to="neumovies/search" className="links">
                         Buscar
                     </Link>
                 </div>
