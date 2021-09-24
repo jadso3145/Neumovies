@@ -10,18 +10,18 @@ function App() {
     return (
         <div className="App">
             <Switch>
-                <Route exact path="neumovies/">
+                <Route exact path="/">
                     <HeaderApp/>
                     <MainApp/>
                 </Route>
-                <Route exact path="neumovies/search">
+                <Route exact path="/search">
                     <Search/>
                 </Route>
-                <Route exact path="neumovies/details/:movieId">
+                <Route exact path="/details/:movieId">
                     <HeaderApp/>
                     <Details/>
                 </Route>
-                <Route path="neumovies/detailsSearch/:searchId">
+                <Route path="/detailsSearch/:searchId">
                     <HeaderApp/>
                     <DetailsSearch/>
                 </Route>
