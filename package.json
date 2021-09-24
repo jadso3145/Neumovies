@@ -2,7 +2,7 @@
   "name": "neumovies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jadso3145.github.io/neumovies",
+  "homepage": "https://jadso3145.github.io/neumovies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",

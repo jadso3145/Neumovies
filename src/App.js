@@ -10,7 +10,7 @@ function App() {
     return (
         <div className="App">
             <Switch>
-                <Route exact path="/">
+                <Route path="/">
                     <HeaderApp/>
                     <MainApp/>
                 </Route>
@@ -18,11 +18,11 @@ function App() {
                     <Search/>
                 </Route>
                 <Route exact path="/details/:movieId">
-                <HeaderApp/>
+                    <HeaderApp/>
                     <Details/>
                 </Route>
                 <Route path="/detailsSearch/:searchId">
-                <HeaderApp/>
+                    <HeaderApp/>
                     <DetailsSearch/>
                 </Route>
             </Switch>
