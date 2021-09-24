@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/neumovies/static/css/main.eccd23da.chunk.css",
-    "main.js": "/neumovies/static/js/main.984abc43.chunk.js",
-    "main.js.map": "/neumovies/static/js/main.984abc43.chunk.js.map",
+    "main.js": "/neumovies/static/js/main.51640549.chunk.js",
+    "main.js.map": "/neumovies/static/js/main.51640549.chunk.js.map",
     "runtime-main.js": "/neumovies/static/js/runtime-main.c1569d13.js",
     "runtime-main.js.map": "/neumovies/static/js/runtime-main.c1569d13.js.map",
     "static/js/2.aaa473de.chunk.js": "/neumovies/static/js/2.aaa473de.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c1569d13.js",
     "static/js/2.aaa473de.chunk.js",
     "static/css/main.eccd23da.chunk.css",
-    "static/js/main.984abc43.chunk.js"
+    "static/js/main.51640549.chunk.js"
   ]
 }
