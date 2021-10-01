@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/neumovies/static/css/main.eccd23da.chunk.css",
-    "main.js": "/neumovies/static/js/main.ea02533d.chunk.js",
-    "main.js.map": "/neumovies/static/js/main.ea02533d.chunk.js.map",
+    "main.js": "/neumovies/static/js/main.e9fca90c.chunk.js",
+    "main.js.map": "/neumovies/static/js/main.e9fca90c.chunk.js.map",
     "runtime-main.js": "/neumovies/static/js/runtime-main.c1569d13.js",
     "runtime-main.js.map": "/neumovies/static/js/runtime-main.c1569d13.js.map",
-    "static/js/2.aaa473de.chunk.js": "/neumovies/static/js/2.aaa473de.chunk.js",
-    "static/js/2.aaa473de.chunk.js.map": "/neumovies/static/js/2.aaa473de.chunk.js.map",
+    "static/js/2.6c855ac9.chunk.js": "/neumovies/static/js/2.6c855ac9.chunk.js",
+    "static/js/2.6c855ac9.chunk.js.map": "/neumovies/static/js/2.6c855ac9.chunk.js.map",
     "index.html": "/neumovies/index.html",
     "static/css/main.eccd23da.chunk.css.map": "/neumovies/static/css/main.eccd23da.chunk.css.map",
-    "static/js/2.aaa473de.chunk.js.LICENSE.txt": "/neumovies/static/js/2.aaa473de.chunk.js.LICENSE.txt"
+    "static/js/2.6c855ac9.chunk.js.LICENSE.txt": "/neumovies/static/js/2.6c855ac9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c1569d13.js",
-    "static/js/2.aaa473de.chunk.js",
+    "static/js/2.6c855ac9.chunk.js",
     "static/css/main.eccd23da.chunk.css",
-    "static/js/main.ea02533d.chunk.js"
+    "static/js/main.e9fca90c.chunk.js"
   ]
 }
