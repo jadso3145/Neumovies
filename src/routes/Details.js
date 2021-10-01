@@ -23,7 +23,6 @@ const Details = () => {
             })
     }, [movieId])
 
-    console.log(movieDetail)
 
     return (
         <div className="container">

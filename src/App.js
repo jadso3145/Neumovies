@@ -9,23 +9,25 @@ import DetailsSearch from './routes/DetailsSearch';
 function App() {
     return (
         <div className="App">
-            <Switch>
-                <Route exact path="/">
-                    <HeaderApp/>
-                    <MainApp/>
-                </Route>
-                <Route exact path="/search">
-                    <Search/>
-                </Route>
-                <Route exact path="/details/:movieId">
-                    <HeaderApp/>
-                    <Details/>
-                </Route>
-                <Route path="/detailsSearch/:searchId">
-                    <HeaderApp/>
-                    <DetailsSearch/>
-                </Route>
-            </Switch>
+            <div>
+                <Switch>
+                    <Route exact path="/">
+                        <HeaderApp/>
+                        <MainApp/>
+                    </Route>
+                    <Route exact path="/search">
+                        <Search/>
+                    </Route>
+                    <Route exact path="/details/:movieId">
+                        <HeaderApp/>
+                        <Details/>
+                    </Route>
+                    <Route path="/detailsSearch/:searchId">
+                        <HeaderApp/>
+                        <DetailsSearch/>
+                    </Route>
+                </Switch>
+            </div>
         </div>
     );
 }

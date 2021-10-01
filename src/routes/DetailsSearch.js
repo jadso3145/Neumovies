@@ -23,7 +23,6 @@ const DetailsSearch = () => {
             })
     }, [searchId])
 
-    console.log(movieDetail)
 
     return (
         <div className="container">

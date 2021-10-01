@@ -24,12 +24,10 @@ const MainApp = () => {
     }, [currentPage])
 
     const onPageChange = data=> {
-        console.log(data.selected)
         let numPage = data.selected + 1
         setCurrentPage(numPage)
     }
 
-    console.log(currentPage)
 
     return (
         <div>

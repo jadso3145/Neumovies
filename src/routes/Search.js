@@ -39,7 +39,6 @@ const Details = () => {
             .then(res => res.json())
             .then(data => {
                 setSearchApi(data.results)
-                console.log(data.results)
                 setPageCount(data.total_pages)
             })
     }, [search, currentPage])
